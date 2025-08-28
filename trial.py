@@ -3,4 +3,5 @@ def add(a,b):
     print(c)
 
 add(5,7)
+add (4,5)
 

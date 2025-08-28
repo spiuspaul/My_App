@@ -4,3 +4,8 @@ def add(a,b):
 
 add(5,7)
 
+def subtract(a,b):
+    c = a - b
+    print(c)
+
+
